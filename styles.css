@@ -1,0 +1,29 @@
+body {
+    background-color: #f2f2f2;
+    background-image: radial-gradient(circle , cyan,rgb(77, 223, 19));
+    
+    margin-top: 150px;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    display: grid;
+    place-items: center;
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 4rem;
+  }
+  
+  #display {
+    font-size: 5rem;
+  }
+  
+  .btn {
+    font-size: 1.5rem;
+    border-radius: 30%;
+    border-color: black;
+  }
+  
